@@ -1,0 +1,3 @@
+/Users/melmathewpalana/CLionProjects/ToDo-App/cmake-build-debug/CMakeFiles/ToDo_App.dir
+/Users/melmathewpalana/CLionProjects/ToDo-App/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/melmathewpalana/CLionProjects/ToDo-App/cmake-build-debug/CMakeFiles/rebuild_cache.dir
